@@ -1,0 +1,51 @@
+%!Adobe-FontList 1.16
+%Locale:0x410
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:Montserrat-Light
+FamilyName:Montserrat
+StyleName:Light
+FullName:Montserrat Light
+MenuName:Montserrat Light
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Users\Jessica\Documents\02 LAVORI\05_FitLondoners\Package_Templates\Client_Template Folder\Document fonts\Montserrat-Light_0.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:44792
+FileModTime:1488284551
+WeightClass:300
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,Montserrat Light
+NameArray:0,Win,1,Montserrat Light
+NameArray:0,Win,16,Montserrat
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:Montserrat-UltraLight
+FamilyName:Montserrat
+StyleName:Ultra Light
+FullName:Montserrat Ultra Light
+MenuName:Montserrat Ultra Light
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Users\Jessica\Documents\02 LAVORI\05_FitLondoners\Package_Templates\Client_Template Folder\Document fonts\Montserrat-UltraLight_0.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:68300
+FileModTime:1488284551
+WeightClass:200
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,Montserrat Ultra Light
+NameArray:0,Win,1,Montserrat Ultra Light
+NameArray:0,Win,16,Montserrat
+%EndFont
+

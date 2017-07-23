@@ -1,0 +1,139 @@
+body{
+   margin:0;
+   padding:0;
+   height:100%;
+   background-color:grey;
+}
+
+.organise {
+    -webkit-column-count: 2; 
+    -moz-column-count: 2; 
+    column-count: 2;
+    -webkit-column-gap: 20px;
+    -moz-column-gap: 20px;
+    column-gap: 20px;
+    padding:10px;
+}
+@font-face{
+	font-family: 'custom';
+	src:url('fonts/Montserrat-UltraLight_0.otf')
+}
+
+h1{
+    font-family: 'custom';
+}
+
+.classname {
+	font-family: 'custom';
+	font-size: 10pt;
+}
+
+/*.container{
+    width: 75%;
+} */
+
+textarea{
+    border: none;
+    margin-left:-2%;
+}
+.multiline-textarea {
+    background-attachment: local;
+    background-image:
+        linear-gradient(to right, white 10px, transparent 10px),
+        linear-gradient(to left, white 10px, transparent 10px),
+        repeating-linear-gradient(white, white 30px, #ccc 30px, #ccc 31px, white 31px);
+    line-height: 30px;
+    padding: 8px 10px;
+}
+
+.singleline-input{
+    background-image:
+        linear-gradient(to right, white 10px, transparent 10px),
+        linear-gradient(to left, white 10px, transparent 10px),
+        repeating-linear-gradient(white, white 30px, #ccc 30px, #ccc 31px, white 31px);
+    border: none;
+    padding: 12px 5px;
+    display: inline-block;
+    line-height:5px;
+}
+label {
+  display: inline-block;
+ 
+ }
+
+#foot{
+    position:relative;
+    width:100%;
+    padding-left: 40%;
+    opacity: 0.6;
+}
+
+#logo{
+    position: relative;
+    padding-left: 2%;
+}
+
+#staticTextbox{
+    position: static;
+    border: 3px solid;
+    border-image: -webkit-linear-gradient(left, turquoise, blue, #ff6600);
+    border-image-slice: 1;
+}
+
+.highlight-pic{
+    position: static;
+    border: 3px solid;
+/*    border-image: -webkit-linear-gradient(left, turquoise, blue, #ff6600);*/
+    border-color:turquoise;
+    border-image-slice: 1;
+    border-width: 2px 11px 55px 2px;
+    background:transparent;
+
+    
+ }
+ 
+ .arrow-right {
+  width: 0; 
+  height: 0; 
+  border-top: 60px solid transparent;
+  border-bottom: 60px solid transparent;
+  
+  border-left: 60px solid green;
+}
+
+.namesurname {
+ width: 50%;
+ height: 60px;
+ position: static;
+ border: 3px solid;
+ border-image: -webkit-linear-gradient(left, turquoise, blue, #ff6600);
+ border-image-slice: 1;
+ background-color: transparent;
+ }
+::-webkit-input-placeholder {
+   text-align: center;
+}
+.nameurnmae-div{
+  margin-left: -41%;
+    margin-top: 20px
+ }
+.verticalLine {
+    position: static;
+    border-left: 2px solid;
+    border-image: -webkit-linear-gradient(top, turquoise, blue, #ff6600);
+    border-image-slice: 1;
+    line-height: 28px;
+ 
+}
+
+li::before {
+  content: "• ";
+  color:transparent;
+ /* or whatever color you prefer */
+}
+
+ul{
+margin-left: -28px;
+
+ }
+
